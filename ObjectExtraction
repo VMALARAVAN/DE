@@ -1,0 +1,12 @@
+#Filename: main.py
+import yaml
+import os
+# Reading YAML data
+try:
+    #
+file_name = open(r"C:\Users\Malar\Downloads\sample.yaml")
+
+ print("found file")  
+    file_name.close()  
+except:  
+    print("file not seen") 
