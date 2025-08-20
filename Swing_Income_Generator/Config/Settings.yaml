@@ -1,0 +1,6 @@
+sl_factor: 1.0
+target_factor: 2.0
+brokerage: 40
+leverage: 1.5
+capital_base: 70000
+symbols: ['BPCL', 'RELIANCE', 'TATASTEEL']
